@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucasgohlke
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning html, css, javascript
+- 📫 How to reach me: https://www.linkedin.com/lucasgohlke/
